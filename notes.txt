@@ -6,3 +6,6 @@ git remote add origin https://github.com/payal1982/firsthomework.git
 git push -u origin master
 
 git clone https://github.com/payal1982/firsthomework.git
+
+git config --local user.email "payal.mumbai82@gmail.com"
+git config --local user.name "payal1982"
